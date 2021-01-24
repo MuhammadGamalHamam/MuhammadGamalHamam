@@ -12,7 +12,7 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 - 💬 Ask me about anything, I am happy to help
 - 📝 See my [Resume](https://drive.google.com/file/d/10MiFR7VlToKWk6W7veCl3ROI64c_f_uP/view?usp=sharing) to get more info.
 
-<h2> 🙋‍♂️ Connect with me:</h2>
+<h2 align="left"> 🙋‍♂️ Connect with me:</h2>
 
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gamal-mohamed-ahmed/)
 [![Medium](https://img.shields.io/badge/-Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=E0E0E0)](https://medium.com/@mohamed.gamal1586/)
