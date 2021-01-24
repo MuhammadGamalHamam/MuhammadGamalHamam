@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Muhammad</h1>
 <br />
 
+<h1 align="center">Hey there, I'm <a href="#">Muhammad Gamal</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h1>
+
 Hi there, I'm **Muhammad Gamal**, a **Software Engineer** **from Egypt** . 
 
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
