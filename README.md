@@ -14,6 +14,8 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 
 <br/>
 
+<h2> 🙋‍♂️ Connect with me:</h2>
+
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-gamal-mohamed-ahmed/)
 [![Medium](https://img.shields.io/badge/-Medium-000000.svg?style=for-the-badge&logo=Medium&logoColor=E0E0E0)](https://medium.com/@mohamed.gamal1586/)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Muhammad.Gamal.Hamam@Gamil.com)
