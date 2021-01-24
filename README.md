@@ -5,7 +5,7 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
-<h2 align="center"> 📖 About me</h2>
+<h2 align="left"> 📖 About me</h2>
 
 - 👨🏽‍💻 I’m currently working as Software Engineer on [Freelancing projects](https://www.fiverr.com/muhmmedgamal)
 - 🌱 I’m currently learning **Flutter, Dart** 
