@@ -42,6 +42,7 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-000000.svg?logo=microsoft&style=flat)
 ![ASP.NET MVC Core](https://img.shields.io/badge/-ASP.NET%20MVC%20Core-000000.svg?logo=microsoft&style=flat)
 ![ASP.NET WebApi](https://img.shields.io/badge/-ASP.NET%20WebApi-000000.svg?logo=microsoft&style=flat)
+![ASP.NET Core WebApi](https://img.shields.io/badge/-ASP.NET%20Core%20WebApi-000000.svg?logo=microsoft&style=flat)
 ![ASP.NET SignalR](https://img.shields.io/badge/-ASP.NET%20SignalR-000000.svg?logo=microsoft&style=flat)
 ![LINQ](https://img.shields.io/badge/-LINQ-000000.svg?logo=microsoft&style=flat)
 ![WCF](https://img.shields.io/badge/-WCF-000000.svg?logo=microsoft&style=flat)
