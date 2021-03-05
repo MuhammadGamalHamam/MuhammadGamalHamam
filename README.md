@@ -23,11 +23,10 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 ### Languages, Frameworks and Tools
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutter/dartlang-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" alt="CSS" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
