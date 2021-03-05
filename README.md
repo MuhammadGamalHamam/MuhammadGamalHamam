@@ -22,7 +22,7 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 
 ### Tutorials
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> &nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
+<p align="left"><img src="https://www.vectorlogo.zone/logos/flutter/dartlang-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;<a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>&nbsp;&nbsp;&nbsp;
 
 <img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
 
