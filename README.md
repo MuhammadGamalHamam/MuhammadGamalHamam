@@ -42,8 +42,6 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="microsoft_powerbi" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  
-<img src="https://www.vectorlogo.zone/logos/typescript/typescript-icon.svg" alt="typescript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  
-
 
 
 ### Quick Stats
