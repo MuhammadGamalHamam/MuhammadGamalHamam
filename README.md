@@ -20,6 +20,14 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 [![outlook](https://img.shields.io/badge/-outlook-0072C6.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:Muhammad.Gamal.Hamam@Outlook.com)
 
 
+### Tutorials
+
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />][reactplaylist]
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][htmltutorial]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascripttutorial]
+
 #### Programming Languages
 
 ![Dart](https://img.shields.io/badge/-Dart-000000.svg?style=flat&logo=dart)
