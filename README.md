@@ -23,20 +23,26 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 ### Languages, Frameworks and Tools
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="40" height="40"/>&nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="getbootstrap" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="dotnet Framework" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npmjs" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" alt="json" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg" alt="CSS" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="microsoft_powerbi" width="40" height="40"/> &nbsp;&nbsp;&nbsp;
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="getpostman" width="40" height="40"/> &nbsp;&nbsp;&nbsp;  
+
 
 #### Programming Languages
 
