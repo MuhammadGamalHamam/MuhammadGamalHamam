@@ -48,9 +48,9 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 
 ### Quick Stats
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhmdJimy&layout=compact&hide=html,scss)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadGamalHamam&layout=compact&hide=html,scss)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MuhmdJimy&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=MuhammadGamalHamam&show_icons=true&hide_border=true)
 
 
