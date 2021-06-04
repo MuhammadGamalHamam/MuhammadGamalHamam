@@ -51,10 +51,8 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadGamalHamam&layout=compact&hide=html,scss)
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=MuhammadGamalHamam&show_icons=true&hide_border=true)
-
   
-  <img  src="https://github-readme-stats.vercel.app/api?username=MuhammadGamalHamam&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=MuhammadGamalHamam&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadGamalHamam&theme=dark" width="45%" >
 
