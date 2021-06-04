@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Muhammad Gamal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br />
 
-I'm a **Software Engineer** from **Egypt**,  I'm passionate about Full-Stack Web and Mobile Development. 
+I'm a **Software Engineer** from **Egypt**,  I'm passionate about **Full-Stack Web** and **Mobile** Development. 
 
 
 ![age](https://img.shields.io/badge/age-27-blue)
