@@ -53,7 +53,6 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
   
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadGamalHamam&theme=dark" align="center">
   
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadGamalHamam&show_icons=true&hide_border=true&theme=dark&hide=html,css,scss" align="center" >
   
 <img  src="https://github-readme-stats.vercel.app/api?username=MuhammadGamalHamam&show_icons=true&hide_border=true&theme=dark" align="center" >
 
