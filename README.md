@@ -2,6 +2,7 @@
 <br />
 
 Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **from Egypt** . 
+<h3 align="center">I'm a **Software Engineer** from **Egypt**</h3>
 
 ![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-MobileDevelopment-brightgreen)
