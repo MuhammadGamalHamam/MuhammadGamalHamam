@@ -13,8 +13,10 @@ Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **fro
 
 - 👨🏽‍💻 I’m currently working as Software Engineer on [Freelancing projects](https://www.fiverr.com/muhmmedgamal)
 - 🌱 I’m currently learning **Flutter** 
+- 👯 I’m looking to collaborate on Flutter projects and Basic Web Dev stuff
 - 💬 Ask me about anything, I am happy to help
 - 📝 See my [Resume](https://drive.google.com/file/d/10MiFR7VlToKWk6W7veCl3ROI64c_f_uP/view?usp=sharing) to get more info.
+- ⚡ Fun fact: Jack of all trades , Master of None ! 
 
 <h2 align="left"> 🙋‍♂️ Connect with me:</h2>
 
