@@ -3,6 +3,10 @@
 
 Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **from Egypt** . 
 
+![age](https://img.shields.io/badge/age-27-blue)
+![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![living](https://img.shields.io/badge/living-Cairo-3c9)
+
 <a target="_blank" href="https://abdulmomin.com"><img src="assets/github-intro.gif" align="right" width="250"></a>
 
 <h2 align="left"> 📖 About me</h2>
