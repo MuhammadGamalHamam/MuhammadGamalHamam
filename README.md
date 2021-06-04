@@ -4,7 +4,7 @@
 Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **from Egypt** . 
 
 ![age](https://img.shields.io/badge/age-27-blue)
-![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
+![focus](https://img.shields.io/badge/focus-Mobile Development-brightgreen)
 ![living](https://img.shields.io/badge/living-Cairo-3c9)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
