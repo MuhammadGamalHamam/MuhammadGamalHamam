@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Muhammad Gamal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <br />
 
-Hey there, I'm **<a href="#">Muhammad Gamal</a>**, a **Software Engineer** **from Egypt** . 
-<h5 align="center">I'm a **Software Engineer** from **Egypt**</h5>
+I'm a **Software Engineer** **from Egypt** . 
+
 
 ![age](https://img.shields.io/badge/age-27-blue)
 ![focus](https://img.shields.io/badge/focus-MobileDevelopment-brightgreen)
